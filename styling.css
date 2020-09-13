@@ -1,0 +1,53 @@
+body {
+  background-color: #a6d9f5;
+}
+
+.home-background {
+  background-image: url('IMG_6860.jpeg');
+}
+
+a {
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+.title-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.title-card {
+  position: relative;
+  text-align: center;
+}
+
+.home-links {
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  top: 90%;
+  transform: translate(-50%, -50%);
+}
+
+.left {
+  left: 20%;
+}
+
+.mid {
+  left: 50%;
+}
+
+.right {
+  left: 80%;
+}
+
+.profile-img {
+  max-width: 30%;
+  height: auto;
+}
+.msg-send {
+  font-weight: bold;
+}
